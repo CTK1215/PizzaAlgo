@@ -8,3 +8,4 @@
 8. Wait for delivery
 9. Receive pizza
 10. Eat pizza
+11. Clean up boxes
