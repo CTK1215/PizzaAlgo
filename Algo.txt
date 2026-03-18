@@ -1,0 +1,10 @@
+1. Open pizza app or website
+2. Choose pizza size
+3. Choose toppings
+4. Add to cart
+5. Enter delivery address
+6. Choose payment method
+7. Place order
+8. Wait for delivery
+9. Receive pizza
+10. Eat pizza
